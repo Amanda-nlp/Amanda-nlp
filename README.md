@@ -4,8 +4,8 @@
 <div>  
 <ul>
   <li> 🌱 Estudo na área de Desenvolvimento Web na Trybe e Engenharia Biomédica na PUC-SP; </li>
-  <li> ⏩ Estou focando aprimorar minhas capacidades em Soft Skills e Hard Skills na área da <br> tecnologia e saúde </li>
-  <li> 
+  <li> ⏩ Estou focando aprimorar minhas capacidades em Soft Skills e Hard Skills na área da <br> tecnologia e saúde; </li>
+  <li> 🌟 Embora eu esteja iniciando na área de desenvolvimento, posso dizer que tenho grande <br> entusiasmo por tudo o que estou aprendendo. </li>
 
 </ul>
 </div>
