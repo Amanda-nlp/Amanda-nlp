@@ -3,8 +3,8 @@
 </div>
 <div align="center">
   <a href="https://github.com/Amanda-nlp">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Amanda-nlp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-nlp&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Amanda-nlp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-nlp&layout=compact&langs_count=7&theme=dracula"/>
   <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z9fDvdzh0bEAAAAd/monsters-inc-sully.gif"> 
 </div>
   <br>
