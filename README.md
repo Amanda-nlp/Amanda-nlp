@@ -1,11 +1,19 @@
 <div align="center">
-<h1> Olá!! Eu me chamo Amanda Lupoli, atualmente estudante de Desenvolvimento Web. </h1>
+  <h2> Olá!! </h2>
 </div>
-<div align="center">
+<div>  
+<ul>
+  <li> 🌱 Estudo na área de Desenvolvimento Web na Trybe e Engenharia Biomédica na PUC-SP; </li>
+  <li> ⏩ Estou focando aprimorar minhas capacidades em Soft Skills e Hard Skills na área da <br> tecnologia e saúde </li>
+  <li> 
+
+</ul>
+</div>
+<div>
+  <img align="right" alt="Amanda-pic" height="400" src="https://c.tenor.com/Z9fDvdzh0bEAAAAd/monsters-inc-sully.gif"> 
   <a href="https://github.com/Amanda-nlp">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Amanda-nlp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-nlp&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z9fDvdzh0bEAAAAd/monsters-inc-sully.gif"> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Amanda-nlp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-nlp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br>
   
