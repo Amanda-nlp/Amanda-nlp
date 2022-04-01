@@ -11,7 +11,7 @@
   <br>
 </div>
 <div>
-  <img align="right" alt="Amanda-pic" height="408" src="https://c.tenor.com/4_7eHoNWopMAAAAd/pixelated-gif.gif"> 
+  <img align="right" alt="Amanda-pic" height="407" src="https://c.tenor.com/4_7eHoNWopMAAAAd/pixelated-gif.gif"> 
   <a href="https://github.com/Amanda-nlp">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Amanda-nlp&bg_color=-50,25132E,483D8B,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="202em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-nlp&bg_color=-50,25132E,483D8B,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=7"/>
