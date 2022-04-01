@@ -1,12 +1,12 @@
 <h1 align="center">
-   Olá, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/Developer.gif" width="60px">/>!! <img src="assets/Rocket.gif" width="40px">
+   Olá, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/Developer.gif" width="60px">/>!! 
 </h1>
 <br>
 <div>  
 <ul>
-  <li> 🌱 Estudo na área de Desenvolvimento Web na Trybe e Engenharia Biomédica na PUC-SP; </li>
-  <li> ⏩ Estou focando aprimorar minhas capacidades em Soft Skills e Hard Skills na área da tec- <br> nologia e saúde; </li>
-  <li> 🌟 Embora eu esteja iniciando na área de desenvolvimento, posso dizer que tenho grande <br> entusiasmo por tudo o que estou aprendendo!! </li>
+  <li> <img src="assets/Rocket.gif" width="20px"> Estudo na área de Desenvolvimento Web na Trybe e Engenharia Biomédica na PUC-SP; </li>
+  <li> <img src="assets/Medal.gif" width="20px"> Estou focando aprimorar minhas capacidades em Soft Skills e Hard Skills na área da tec- <br> nologia e saúde; </li>
+  <li> <img src="assets/Earth.gif" width="20px"> Embora eu esteja iniciando na área de desenvolvimento, posso dizer que tenho grande <br> entusiasmo por tudo o que estou aprendendo!! </li>
 </ul>
   <br>
 </div>
