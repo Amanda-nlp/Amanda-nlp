@@ -1,6 +1,6 @@
-<div align="center">
-  <h2> Olá, <developers<img src="assets/Earth.gif" width="24px">/>!! </strong> </h2>
-</div>
+<h1 align="center">
+   Olá, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/Developer.gif" width="60px">/>!! <img src="assets/Rocket.gif" width="40px">
+</h1>
 <br>
 <div>  
 <ul>
