@@ -4,9 +4,9 @@
 <br>
 <div>  
 <ul>
-  <li> <img src="assets/Rocket.gif" width="20px"> Estudo na área de Desenvolvimento Web na Trybe; </li>
-  <li> <img src="assets/Medal.gif" width="20px"> Estou focando aprimorar minhas capacidades em Soft Skills e Hard Skills na área da tecnologia; </li>
-  <li> <img src="assets/Earth.gif" width="20px"> Embora eu esteja iniciando na área de desenvolvimento, posso dizer que tenho grande entusiasmo por tudo o que estou aprendendo!! </li>
+  <li> <img src="assets/Rocket.gif" width="20px" height="20px"> Estudo na área de Desenvolvimento Web na Trybe; </li>
+  <li> <img src="assets/Medal.gif" width="20px" height="20px"> Estou focando aprimorar minhas capacidades em Soft Skills e Hard Skills na área da tecnologia; </li>
+  <li> <img src="assets/Earth.gif" width="20px" height="20px"> Embora eu esteja iniciando na área de desenvolvimento, posso dizer que tenho grande entusiasmo por tudo o que estou aprendendo!! </li>
 </ul>
   <br>
 </div>
