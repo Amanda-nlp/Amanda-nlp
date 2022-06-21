@@ -1,5 +1,5 @@
 <h1 align="center">
-   Olá, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/Developer.gif" width="60px">/>!! 
+   Olá, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/Developer.gif" width="60px" height="60px">/>!! 
 </h1>
 <br>
 <div>  
